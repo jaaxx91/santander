@@ -1,0 +1,6 @@
+@Santander.API_HostAddress = http://localhost:5107
+
+GET {{Santander.API_HostAddress}}/best-stories/
+Accept: application/json
+
+###
